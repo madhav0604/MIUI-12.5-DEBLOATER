@@ -14,7 +14,6 @@ REPLACE="
 /system/app/AnalyticsCore
 /system/app/BookmarkProvider
 /system/app/BuiltInPrintService
-/system/app/Calculator
 /system/app/CarrierDefaultApp
 /system/app/Cit
 /system/app/CloudService
@@ -55,7 +54,6 @@ REPLACE="
 /system/app/MSA-Global
 /system/app/Netflix_activation
 /system/app/NextPay
-/system/app/Notes
 /system/app/OsuLogin
 /system/app/PartnerBookmarksProvider
 /system/app/PaymentService
@@ -77,7 +75,6 @@ REPLACE="
 /system/app/XMSFKeeper
 /system/app/YouDaoEngine
 /system/priv-app/Browser
-/system/priv-app/Calendar
 /system/priv-app/CellBroadcastServiceModulePlatform
 /system/priv-app/CleanMaster
 /system/priv-app/CloudBackup
@@ -113,17 +110,13 @@ REPLACE="
 /system/priv-app/Weather
 /system/priv-app/YellowPage
 /system/product/app/aiasst_service
-/system/product/app/Chrome
 /system/product/app/FM
-/system/product/app/Gmail2
-/system/product/app/GoogleOne
 /system/product/app/GoogleTTS
 /system/product/app/Maps
 /system/product/app/remoteSimLockAuthentication
 /system/product/app/talkback
 /system/product/app/uimremoteclient
 /system/product/app/uimremoteserver
-/system/product/app/YouTube
 /system/product/priv-app/AndroidAutoStub
 /system/product/priv-app/EmergencyInfo
 /system/product/priv-app/GoogleAssistant
@@ -136,12 +129,8 @@ REPLACE="
 /system/system_ext/app/FM
 /system/vendor/app/Joyose
 /system/vendor/app/SoterService
-/vendor/data/app/Drive
-/vendor/data/app/Duo
 /vendor/data/app/GlobalFashiongallery
 /vendor/data/app/Music2
-/vendor/data/app/Photos
-/vendor/data/app/Videos
 /vendor/data/app/wps_lite
 /vendor/data/app/XMRemoteController
 /system/priv-app/PersonalAssistant
